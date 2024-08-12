@@ -37,7 +37,7 @@ For more details, visit our website https://techxconf.com
 ## Your entitlements
 - Get to promote your community during the TechXConf 2024 event.
   - Your community logo on the event website
-  - Community partner announcement from TechXConf Chennai social media handles (Twitter, LinkedIn & Meta)
+  - Community partner announcement from TechXConf social media handles (Twitter, LinkedIn & Meta)
     
 ## Process for Onboarding
 - Contact us: The first step to becoming a community partner is to reach out to us and express your interest. You can do this by sending an email to organizers@techxconf.com
